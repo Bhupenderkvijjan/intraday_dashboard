@@ -1,0 +1,2 @@
+SRF.NS
+LUPIN.NS
